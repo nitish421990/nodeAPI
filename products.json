@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "iphone",
+        "price": 999,
+        "featured": true,
+        "company" : "Apple"
+    },
+    {
+        "name" : "iphone10",
+        "price": 9991,
+        "featured": true,
+        "company" : "Apple"
+    },
+    {
+        "name" : "M31",
+        "price": 9992,
+        "featured": true,
+        "company" : "Samsung"
+    },
+    {
+        "name" : "iphone8",
+        "price": 9993,
+        "featured": true,
+        "company" : "Apple"
+    },
+    {
+        "name" : "oppo91",
+        "price": 9994,
+        "featured": true,
+        "company" : "Oppo"
+    },
+    {
+        "name" : "iphone6",
+        "price": 999,
+        "featured": true,
+        "company" : "Apple"
+    }
+]
